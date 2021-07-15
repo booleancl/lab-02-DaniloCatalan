@@ -3,10 +3,11 @@
 */
 
 function logicMadness() {
-  // return 3 < 2 || 2 > 1 
+  //return 3 < 2 || 2 > 1 
   // return 3 > 2 && 2 > 1 
   // return 3 > 2 || 2 < 1 
   // return 3 < 2 && 2 > 1 
+  return true
 }
 
 function thisIsCrazy() {
